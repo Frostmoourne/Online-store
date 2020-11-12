@@ -1,0 +1,14 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: 
+ =?utf-8?b?0J/QvtC00YLQstC10YDQttC00LXQvdC40LUg0YPRh9C10YLQvdC+0Lkg0LfQsNC/?=
+ =?utf-8?b?0LjRgdC4IGRqYW5nbzEw?=
+From: webmaster@localhost
+To: django10@local.shop
+Date: Sat, 22 Aug 2020 18:53:33 -0000
+Message-ID: <159812241323.11372.1065605138076412095@DESKTOP-I8I0R92>
+
+Для подтверждения учетной записи django10 на портале http://localhost:8000 перейдите по ссылке: 
+http://localhost:8000/auth/verify/django10@local.shop/2f1d7bd7d2fa59878bb99754d94812a534830b39/
+-------------------------------------------------------------------------------

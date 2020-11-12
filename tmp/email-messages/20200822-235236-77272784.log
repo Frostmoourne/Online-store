@@ -1,0 +1,14 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: 
+ =?utf-8?b?0J/QvtC00YLQstC10YDQttC00LXQvdC40LUg0YPRh9C10YLQvdC+0Lkg0LfQsNC/?=
+ =?utf-8?b?0LjRgdC4IGRqYW5nbzk=?=
+From: webmaster@localhost
+To: django9@geekshop.local
+Date: Sat, 22 Aug 2020 18:52:36 -0000
+Message-ID: <159812235633.12060.15848166866710140041@DESKTOP-I8I0R92>
+
+Для подтверждения учетной записи django9 на портале http://localhost:8000 перейдите по ссылке: 
+http://localhost:8000/auth/verify/django9@geekshop.local/01b4ec793c7ee7274db841ab1313b4dcf04ad58a/
+-------------------------------------------------------------------------------
